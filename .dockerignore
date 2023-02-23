@@ -1,0 +1,9 @@
+node_modules
+.gitignore
+README.md
+*.sh
+kubeconfig
+scripts
+infrastructure
+elasticsearch-mappings
+.editorconfig

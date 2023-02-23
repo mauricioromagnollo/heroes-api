@@ -1,0 +1,8 @@
+node_modules
+dist
+*.md
+*.json
+.eslintrc.cjs
+coverage
+docs
+.vscode
